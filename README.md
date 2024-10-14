@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello welcome to S-c995
 
 <!--
 **S-c995/S-c995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
